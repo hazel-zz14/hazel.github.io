@@ -1,0 +1,76 @@
+/* ESTILO GENERAL */
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eef5fb;
+}
+
+/* ENCABEZADO */
+header{
+    background-color: #ff8fab;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+/* MENÚ */
+nav{
+    background-color: #c77dff;
+    padding: 20px;
+}
+
+/* LISTA */
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+/* BOTONES */
+nav a{
+    background-color: #e8c6d8;
+    color: black;
+    text-decoration: none;
+    padding: 15px 25px;
+    border-radius: 15px;
+    font-weight: bold;
+    display: inline-block;
+    transition: 0.3s;
+}
+
+/* EFECTO DEL MOUSE */
+nav a:hover{
+    background-color: #0d4688;
+    color: white;
+    transform: scale(1.05);
+}
+/* CUADROS */
+section{
+    background-color: rgb(148, 211, 236);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px gray;
+}
+
+/* TÍTULOS */
+h2{
+    color: #a304d3;
+}
+
+h3{
+    color: #005fa3;
+}
+
+/* FOOTER */
+footer{
+    background-color: #9d4edd;
+    color: rgb(2, 2, 2);
+    text-align: center;
+    padding: 10px;
+}
