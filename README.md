@@ -1,21 +1,10 @@
-# Página Web Informativa
+<!-- 1. Título -->
+# MantSys — Mantenimiento y Aseguramiento de la Operación del Sistema Informático
 
-## Tema
-Mantenimiento y aseguramiento de la operación del sistema informático.
-
-## Contenido
-- Concepto
-- Objetivos
-- Tipos de mantenimiento
-- Normas y estándares
-- Herramientas
-- Beneficios
-- Importancia
-
-## Archivos
-- index.html
-- style.css
-- README.md
-
-## Autor
-Hazel Ascencio
+<!-- 2. En la estructura del proyecto -->
+mantenimiento-sistemas/
+├── index.html
+├── style.css
+└── README.md
+<!-- 3. En el pie del README -->
+*Página informativa educativa — MantSys · Módulo: Mantenimiento y Aseguramiento de la Operación del Sistema Informático*
